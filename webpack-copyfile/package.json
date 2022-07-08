@@ -1,0 +1,16 @@
+{
+  "name": "zhejaing-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.gofusion.cn/pcweb/zhejaing-demo.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
